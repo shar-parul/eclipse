@@ -1,0 +1,6 @@
+Hello
+
+I am trying to add a new text file into my Git hub through Git Bash.
+Git- It is a distributed version control system. IT'S IS OPEN SOURCE AND available free to use.
+Features
+Branching,Data Integrity,Locality,Distributed Sysyem.
