@@ -1,0 +1,7 @@
+
+#!/usr/bin/perl
+
+
+print #this is a comment
+
+"Hello, world!\n"
