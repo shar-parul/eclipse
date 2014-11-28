@@ -1,3 +1,7 @@
 vijay    tty7         2013-06-18 15:49
 vijay    pts/0        2013-06-18 16:16 (:0.0)
 This is new vi file.
+This is new vi file.
+This is new vi file.
+This is new vi file.
+This is new vi file.
